@@ -1,5 +1,3 @@
-![Hello](https://github.com/Boyan-Yordanov/Boyan-Yordanov/extras/hi.gif)
-
 <img src="https://github.com/Boyan-Yordanov/Boyan-Yordanov/extras/hi.gif" alt="Hi, my name is Boyan" title="Hi, my name is Boyan"/>
 
 - 🌱 I’m currently in my Third Year of BSc Computer Science in Coventry University, UK.  
