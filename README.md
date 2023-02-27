@@ -1,4 +1,5 @@
-![<img src="https://github.com/Boyan-Yordanov/Boyan-Yordanov/blob/main/extras/h.gif" width="1080" height="400" />](https://github.com/Boyan-Yordanov/Boyan-Yordanov/blob/main/extras/hello_there.gif)
+<img src="https://github.com/Boyan-Yordanov/Boyan-Yordanov/blob/main/extras/h.gif" width="1080" height="280">
+
 
 <h1 align="center">Hi 👋, I'm Boyan Yordanov</h1>
 <h3 align="center">A curious programmer, who is eager to learn</h3>
