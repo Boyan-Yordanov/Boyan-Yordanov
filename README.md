@@ -1,4 +1,4 @@
-![Hi, my name is Boyan](https://github.com/Boyan-Yordanov/Boyan-Yordanov/blob/main/extras/hello_there.gif|175)
+![Hi, my name is Boyan](https://github.com/Boyan-Yordanov/Boyan-Yordanov/blob/main/extras/hello_there.gif|100)
 
 - 🌱 I’m currently in my Third Year of BSc Computer Science in Coventry University, UK.  
 - 👀 I’m mainly interested in the field of Artificial Intelligence (to be more specific: Computer Vision and Machine Learning), although I am always open to further extend my knowledge in other areas.
