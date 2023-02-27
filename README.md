@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Boyan Yordanov</h1>
 <h3 align="center">A curious programmer, who is eager to learn</h3>
 
-- :mortar_board: Studying Honours Integrated Masters of Computer Science in Coventry University, UK.  
+- :mortar_board: Honours MSci of Computer Science in Coventry University, UK.  
 
 - :telescope: I’m currently working on **Formula Student AI**
 
