@@ -1,4 +1,4 @@
-<img src="https://github.com/Boyan-Yordanov/Boyan-Yordanov/extras/hi.gif" alt="Hi, my name is Boyan" title="Hi, my name is Boyan"/>
+<img src="https://github.com/Boyan-Yordanov/Boyan-Yordanov/extras/hi.gif?raw=true" width="200px" alt="Hi, my name is Boyan" title="Hi, my name is Boyan"/>
 
 - 🌱 I’m currently in my Third Year of BSc Computer Science in Coventry University, UK.  
 - 👀 I’m mainly interested in the field of Artificial Intelligence (to be more specific: Computer Vision and Machine Learning), although I am always open to further extend my knowledge in other areas.
