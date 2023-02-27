@@ -1,4 +1,4 @@
-<a href="url"><img src="https://github.com/Boyan-Yordanov/Boyan-Yordanov/blob/main/extras/h.gif" width="720"></a>
+<a href="url"><img src="https://github.com/Boyan-Yordanov/Boyan-Yordanov/blob/main/extras/hello_there.gif" width="720"></a>
 
 
 <h1 align="center">Hi 👋, I'm Boyan Yordanov</h1>
