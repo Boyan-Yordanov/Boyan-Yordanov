@@ -6,16 +6,16 @@
 
 > :mortar_board: Honours MSci Computer Science, Coventry University, UK.  
 >
-> :telescope: Programming Lead for Coventry University's **Formula Student AI Team**
+> :telescope: Programming Lead for Coventry University's Formula Student AI Team
 >
-> :seedling: Learning **Rust, AWS and Kubernetes**
+> :seedling: Learning: Rust, AWS and Kubernetes
 >
 > :page_facing_up: Interested in my experience? [Click Here!](CV/cv.pdf)
 >
-> :fire: Fun fact **I love Star Wars**
+> :fire: **I love Star Wars**
 
 <h3 align="left">Skills:</h3>
-<p align="left"> 
+<p align="centre"> 
 <img src="https://github.com/Boyan-Yordanov/Boyan-Yordanov/blob/main/extras/cplusplus.svg" alt="cplusplus" width="40" height="40"/>
 <img src="https://github.com/Boyan-Yordanov/Boyan-Yordanov/blob/main/extras/python.svg" alt="python" width="40" height="40"/>
 <img src="https://github.com/Boyan-Yordanov/Boyan-Yordanov/blob/main/extras/tensorflow.svg" alt="tensorflow" width="40" height="40"/>
