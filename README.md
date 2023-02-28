@@ -15,7 +15,7 @@
 > :fire: Fun fact **I love Star Wars**
 
 <h3 align="left">Skills:</h3>
-
+<p align="left"> 
 <img src="https://github.com/Boyan-Yordanov/Boyan-Yordanov/blob/main/extras/cplusplus.svg" alt="cplusplus" width="45" height="45"/>
 <img src="https://github.com/Boyan-Yordanov/Boyan-Yordanov/blob/main/extras/python.svg" alt="python" width="45" height="45"/>
 <img src="https://github.com/Boyan-Yordanov/Boyan-Yordanov/blob/main/extras/tensorflow.svg" alt="tensorflow" width="45" height="45"/>
