@@ -1,7 +1,7 @@
 <a href="url"><img src="https://github.com/Boyan-Yordanov/Boyan-Yordanov/blob/main/extras/hello_there.gif" width="1080"></a>
 
 
-<h1 align="center">Hi 👋, I'm Boyan Yordanov</h1>
+<h1 align="center">I'm Boyan Yordanov</h1>
 <h3 align="center">A curious programmer, who is eager to learn</h3>
 
 > :mortar_board: Honours MSci Computer Science, Coventry University, UK.  
@@ -15,7 +15,7 @@
 > :fire: **I love Star Wars**
 
 <h3 align="left">Skills:</h3>
-<p align="centre"> 
+<p align="center"> 
 <img src="https://github.com/Boyan-Yordanov/Boyan-Yordanov/blob/main/extras/cplusplus.svg" alt="cplusplus" width="40" height="40"/>
 <img src="https://github.com/Boyan-Yordanov/Boyan-Yordanov/blob/main/extras/python.svg" alt="python" width="40" height="40"/>
 <img src="https://github.com/Boyan-Yordanov/Boyan-Yordanov/blob/main/extras/tensorflow.svg" alt="tensorflow" width="40" height="40"/>
