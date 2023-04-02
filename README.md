@@ -10,7 +10,7 @@
 >
 > :seedling: Learning: Rust, AWS and Kubernetes
 >
-> :page_facing_up: Interested in my experience? [Click Here!](<CV/CV_GitHub_Version.pdf>)
+> :page_facing_up: Interested in my experience? [Click Here!](CV/CV.pdf)
 >
 > :fire: **I love Star Wars**
 
