@@ -40,4 +40,4 @@
 
 ![](./profile-3d-contrib/profile-night-view.svg)
 
-![Total Visitors](https://vbr.wocr.tk/badge?page_id=Boyan-Yordanov.Boyan-Yordanov&color=00cf00)
+![](https://komarev.com/ghpvc/?username=Boyan-Yordanov)
