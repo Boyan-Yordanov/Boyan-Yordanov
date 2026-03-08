@@ -16,13 +16,13 @@
 
 <h3 align="left">Skills:</h3>
 <p align="center"> 
-<img src="https://github.com/Boyan-Yordanov/Boyan-Yordanov/blob/main/extras/cplusplus.svg" alt="cplusplus" width="40" height="40"/>
 <img src="https://github.com/Boyan-Yordanov/Boyan-Yordanov/blob/main/extras/python.svg" alt="python" width="40" height="40"/>
 <img src="https://github.com/Boyan-Yordanov/Boyan-Yordanov/blob/main/extras/tensorflow.svg" alt="tensorflow" width="40" height="40"/>
 <img src="https://github.com/Boyan-Yordanov/Boyan-Yordanov/blob/main/extras/numpy.svg" alt="numpy" width="40" height="40"/>
 <img src="https://github.com/Boyan-Yordanov/Boyan-Yordanov/blob/main/extras/seaborn.svg" alt="seaborn" width="40" height="40"/>
-<img src="https://github.com/Boyan-Yordanov/Boyan-Yordanov/blob/main/extras/opencv.svg" alt="opencv" width="40" height="40"/>
 <img src="https://github.com/Boyan-Yordanov/Boyan-Yordanov/blob/main/extras/sklearn.svg" alt="sklearn" width="40" height="40"/>
+<img src="https://github.com/Boyan-Yordanov/Boyan-Yordanov/blob/main/extras/cplusplus.svg" alt="cplusplus" width="40" height="40"/>
+<img src="https://github.com/Boyan-Yordanov/Boyan-Yordanov/blob/main/extras/opencv.svg" alt="opencv" width="40" height="40"/>
 <img src="https://github.com/Boyan-Yordanov/Boyan-Yordanov/blob/main/extras/haskell.svg" alt="haskell" width="40" height="40"/>
 <img src="https://github.com/Boyan-Yordanov/Boyan-Yordanov/blob/main/extras/javascript.svg" alt="javascript" width="40" height="40"/>
 <img src="https://github.com/Boyan-Yordanov/Boyan-Yordanov/blob/main/extras/html.svg" alt="html" width="40" height="40"/>
